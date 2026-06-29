@@ -1,10 +1,10 @@
 # Prototype — Decision Intelligence OS
 
 ## Live Prototype
-- [Your Prototype Link Here]
+https://YOUR-LINK-HERE](https://intivo-assets--shahzebghanidig.replit.app/
 
 ## Description
-This prototype demonstrates the core user experience and interaction flow of Decision Intelligence OS, including AI-driven workflows, dashboard views, and decision intelligence interface.
+This prototype demonstrates the UI/UX and workflow of Decision Intelligence OS.
 
 ## Purpose
-To validate product design, user flow, and system behavior before full implementation.
+Validate product experience and system behavior before development.
